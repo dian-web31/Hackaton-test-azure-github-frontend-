@@ -1,4 +1,4 @@
-const API_URL = "cht-voi-bot-ffc9a4fmgfeedmce.eastus-01.azurewebsites.net/login";
+const API_URL = "cht-voi-bot-ffc9a4fmgfeedmce.eastus-01.azurewebsites.net";
 
 document.getElementById("loginForm").addEventListener("submit", async (event) => {
     event.preventDefault();
